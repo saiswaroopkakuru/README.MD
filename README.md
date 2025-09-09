@@ -117,5 +117,5 @@ Welcome to my personal portfolio! This repository showcases my professional expe
 
 Feel free to explore and contribute to this repository! For more details or collaboration opportunities, connect with me on:
 
-- **[LinkedIn](https://linkedin.com/in/sai-swaroop-1199sai)**
+- **[LinkedIn](https://linkedin.com/in/saiswaroop-k)**
 - **[GitHub](https://github.com/saiswaroopkakuru)**
